@@ -24,13 +24,16 @@
     "enable": true
   },
   "adminBot": [
-    "61593683823942"
+    "61594580145003",
+    "100080892773593"
   ],
   "devUsers": [
-    "61593683823942"
+    "61594580145003",
+    "100080892773593"
   ],
   "premiumUsers": [
-    "61593683823942"
+    "61594580145003",
+    "100080892773593"
   ],
   "reactBy": {
     "delete": [
@@ -58,7 +61,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🎀♡nx λi♡🦋くめ",
+  "nickNameBot": "🎀♡SHANTO-X-NOORI-BOT🦋♡くめ",
   "prefix": "/",
   "usePrefix": {
     "enable": true,
